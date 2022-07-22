@@ -1,0 +1,49 @@
+body{
+    background-color:darkslateblue;
+    color: aliceblue;
+    font-family: monospace; 
+}
+
+ a{
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 40px;
+    text-decoration:none ;
+}
+
+header{
+    text-align: center;
+}
+
+header img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 5px solid #7C5E99;
+}
+
+.center{
+    text-align: center;
+}
+
+footer a img {
+    width: 40px;
+    height: 40px;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+}
+
+nav a:hover{
+    color:#7C5E99;
+}
+
+footer a{
+    margin: 20px;
+}
+
+.container{
+    padding: 0px 50px;
+}
